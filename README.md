@@ -1,4 +1,2 @@
-# scoobing.com
-Project Alias
-
+# Project Alias
 Project for a customer
